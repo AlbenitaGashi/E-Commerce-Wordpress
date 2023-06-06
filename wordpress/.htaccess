@@ -6,11 +6,11 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /E-commerce-Wordpress/wordpress/
+RewriteBase /202152162.wts2023.ubt-uni.eu/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /E-commerce-Wordpress/wordpress/index.php [L]
+RewriteRule . /202152162.wts2023.ubt-uni.eu/index.php [L]
 </IfModule>
 
 # END WordPress

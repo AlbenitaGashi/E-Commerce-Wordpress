@@ -1,0 +1,21 @@
+[06-Jun-2023 12:54:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\DynamicTags\Module' not found in /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/dynamicconditions/Lib/DynamicTags/NumberPostsTag.php:30
+Stack trace:
+#0 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/elementor/core/dynamic-tags/base-tag.php(98): DynamicConditions\Lib\DynamicTags\NumberPostsTag->get_categories()
+#1 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/elementor/core/dynamic-tags/tag.php(73): Elementor\Core\DynamicTags\Base_Tag->get_editor_config()
+#2 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/elementor/core/dynamic-tags/manager.php(389): Elementor\Core\DynamicTags\Tag->get_editor_config()
+#3 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/elementor/core/dynamic-tags/manager.php(401): Elementor\Core\DynamicTags\Manager->get_tags_config()
+#4 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt- in /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/dynamicconditions/Lib/DynamicTags/NumberPostsTag.php on line 30
+[06-Jun-2023 12:55:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\DynamicTags\Module' not found in /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/dynamicconditions/Lib/DynamicTags/NumberPostsTag.php:30
+Stack trace:
+#0 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/elementor/core/dynamic-tags/base-tag.php(98): DynamicConditions\Lib\DynamicTags\NumberPostsTag->get_categories()
+#1 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/elementor/core/dynamic-tags/tag.php(73): Elementor\Core\DynamicTags\Base_Tag->get_editor_config()
+#2 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/elementor/core/dynamic-tags/manager.php(389): Elementor\Core\DynamicTags\Tag->get_editor_config()
+#3 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/elementor/core/dynamic-tags/manager.php(401): Elementor\Core\DynamicTags\Manager->get_tags_config()
+#4 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt- in /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/dynamicconditions/Lib/DynamicTags/NumberPostsTag.php on line 30
+[06-Jun-2023 12:57:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\DynamicTags\Module' not found in /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/dynamicconditions/Lib/DynamicTags/NumberPostsTag.php:30
+Stack trace:
+#0 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/elementor/core/dynamic-tags/base-tag.php(98): DynamicConditions\Lib\DynamicTags\NumberPostsTag->get_categories()
+#1 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/elementor/core/dynamic-tags/tag.php(73): Elementor\Core\DynamicTags\Base_Tag->get_editor_config()
+#2 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/elementor/core/dynamic-tags/manager.php(389): Elementor\Core\DynamicTags\Tag->get_editor_config()
+#3 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/elementor/core/dynamic-tags/manager.php(401): Elementor\Core\DynamicTags\Manager->get_tags_config()
+#4 /home/wts2023ubtuni/public_html/202152162.wts2023.ubt- in /home/wts2023ubtuni/public_html/202152162.wts2023.ubt-uni.eu/wp-content/plugins/dynamicconditions/Lib/DynamicTags/NumberPostsTag.php on line 30
